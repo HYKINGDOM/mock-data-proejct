@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: dev
+  application:
+    name: mock-data-project
+
+
+server:
+  port: 8098
